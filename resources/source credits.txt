@@ -1,0 +1,14 @@
+﻿"engmix.txt"
+http://www.gwicks.net/dictionaries.htm
+
+"engmix_EDITED.txt"
+author: Jinwoo Kim AKA AmberGraph41161
+(was created/is just an edited version of "engmix.txt")
+
+"F replace for engmix.cpp"
+author: Jinwoo Kim AKA AmberGraph41161
+(is used to replace the special F char used in engmix.txt)
+
+"engmix.txt_alphaAlphabeticalOrderSort.cpp"
+author: Jinwoo Kim AKA AmberGraph41161
+(is used to split engmix_EDITED.txt into aa-zz)
